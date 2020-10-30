@@ -1,0 +1,43 @@
+.conatiner{
+    text-align: center;
+    margin-top: 80px;
+    
+    
+}
+
+table{
+    margin: auto;
+
+}
+
+input{
+    font-size: 25px;
+    width:245px;
+    height:35px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+button{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 3px;
+    background-color: #d6d6d6;
+    width: 50px;
+    height: 55px;
+    border-radius: 10px;
+}
+
+.calculator{
+    border-radius:15px;
+    background-color:#9588a8;
+    margin-left:610px;
+    margin-right:605px;
+    margin-top:50px;
+    border: 3px solid black;
+    height: 390px;
+    
+
+    
+}
